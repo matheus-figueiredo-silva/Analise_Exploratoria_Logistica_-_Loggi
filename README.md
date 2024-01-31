@@ -1,1 +1,5 @@
-# Analise_Exploratoria_Logistica_-_Loggi
+# Analise Exploratoria de Logistica com Base de Dados da Loggi
+
+
+
+O projeto envolve uma exploração abrangente de dados relacionados às operações de entrega e distribuição de pedidos em Brasília. O trabalho utiliza uma base de dados da Loggi, uma startup especializada em soluções de logística, e tem como objetivo dissecar e otimizar os padrões de entrega dentro da rede logística de Brasília. Através da limpeza e enriquecimento de dados, o projeto busca extrair insights acionáveis sobre a eficiência e eficácia das localizações dos hubs, rotas de entrega e operações logísticas como um todo. Utilizando técnicas de ciência de dados e análise geoespacial, o projeto explora a distribuição geográfica das entregas, taxas de utilização dos hubs e o impacto de diversos fatores no desempenho das entregas. No final das contas, as descobertas deste projeto estão destinadas a informar processos de tomada de decisão estratégica na Loggi, impulsionando melhorias na eficiência de entrega, satisfação do cliente e excelência operacional.
